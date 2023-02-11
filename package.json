@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mjlop99/Asycn-landind/issues"
   },
-  "homepage": "https://github.com/mjlop99/Asycn-landind#readme"
+  "homepage": "https://github.com/mjlop99/Asycn-landind#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
